@@ -22,7 +22,6 @@ You can even open the DevTools console and see JS running.
 JS will list our topics and even recomend one at random.
 
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
